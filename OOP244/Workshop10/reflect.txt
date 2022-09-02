@@ -1,0 +1,29 @@
+Sasha Kharlamov
+150707214
+skharlamov@myseneca.ca
+OOP244-NFF
+
+Workshop 10 Reflection
+---------------------
+While workshop 10 introduced a completely new concept (templates), I did not
+struggle with it as much as previous workshops. I am unsure if this is because
+of my growth in understanding over the semester or pure luck, but utilizing the
+templates only required a little bit of code reading and tampering with code
+format to ensure that it compiled properly. I had no memory issues, the syntax,
+while confusing, was not complex, but it was definitely odd to return by copy
+after spending the whole semester returning by reference.
+Overall, a nice and quick little workshop that was a solid introduction to templates
+for the end of the semester.
+
+/*copied comments from code*/
+-----------------------------
+/*For the select function, each object with a class type needs to
+	have an '==' operator overload that allows the class to be compared
+	with another class of the same type. Similarly, each object needs to
+	have an '=' operator overload that functions as a fool-proof
+	assignment operator for the object.*/
+/*for the printCollection function, an object of the class type
+	needs to have a function called size() that returns the size of the
+	array through which to loop. The object also needs to have a 
+	'<<' operator override that defines the display of the object to 
+	the output stream.*/

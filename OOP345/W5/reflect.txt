@@ -1,0 +1,20 @@
+Sasha Kharlamov
+150707214
+skharlamov@myseneca.ca
+OOP345-NCC
+
+Workshop 5 Reflection
+---------------------
+These workshops are getting really hard to keep up with. The concepts like Lambda
+functions, functors, and the in-depth templating are incredibly abstract and leave
+me feeling like I've done black magic at the completion of a workshop. This workshop
+was very heavy on teaching us functors, lambda expressions, and error handling. Out of 
+the three, I found error handling the easiest to deal with by far. I couldn't
+tell you the different utilizations between functors and lambda expressions very well,
+I've only managed to see a similarity between lambda and anonymous functions in 
+JavaScript, which have some very convenient uses where you don't really want to name
+the function. In terms of the classes of Book and Movie, I'd probably make Book a child
+class of Movie since their functionalities are effectively the same, Book just contains
+more variables. I think default constructors are almost always necessary to ensure your
+classes are in a safe state when working with them and to make sure your IDE doesn't 
+throw a fit about it.

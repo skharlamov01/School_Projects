@@ -1,0 +1,4 @@
+Utils.cpp: In member function 'int sdds::Utils::daysOfMon(int, int) const':
+Utils.cpp:40:41: warning: '*' in boolean context, suggest '&&' instead [-Wint-in-bool-context]
+       return days[mon] + int((mon == 1) * ((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0));
+                              ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

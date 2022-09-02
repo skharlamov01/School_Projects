@@ -1,0 +1,26 @@
+Sasha Kharlamov
+150707214
+skharlamov@myseneca.ca
+OOP345-NCC
+
+Workshop 9 Reflection
+---------------------
+
+This was by far one of the hardest workshops to understand. Multithreading itself
+was not a difficult concept but understanding the code that was given to us really
+put my reading comprehension to the test more than any other workshop.
+
+I don't think there was any benefit to the binary files other than teaching us that
+apparently reading binary in C++ is incredibly inconvenient. Now I know how to do it,
+and I hope I never have to.
+
+I could see the use of binding a function if you want the same variable to be a parameter,
+it lessens the amount of writing to do when you call the function for the thread, making
+the thread parameter list more readable.
+
+If you know how to use multi-threading and how to organize that mess with futures and
+locks and atomics, that would be a massive boost to processing speed and memory management.
+In my code I just did simple multi-threading, nothing special.
+I created a thread object with the bound function and then used std::move() to move
+that thread into my vector of threads. After, I just looped through the vector and joined
+them. 

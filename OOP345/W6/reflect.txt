@@ -1,0 +1,18 @@
+Sasha Kharlamov
+150707214
+skharlamov@myseneca.ca
+OOP345-NCC
+
+Workshop 6 Reflection
+---------------------
+In workshop 6 I really tried to use iterators to work through the vector, however I couldn't
+figure out how to use the iterators since the vector we were working with contained pointers,
+making it really convoluted to dereference when I needed to access the values and I still
+haven't found a way to achieve. 
+
+We have to deallocate the memory in the vector because the objects inside the vector don't
+have their own destructor, so if not destructed in the vector it would cause a memory leak.
+
+However, in this workshop I think my biggest struggle was with input and sanitizing it so that it
+fit into my variables. All of the variation in the messy data file meant a lot of extra
+duct tape was needed to make it work and give off exceptions properly.

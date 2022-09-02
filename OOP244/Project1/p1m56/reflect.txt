@@ -1,0 +1,21 @@
+Sasha Kharlamov
+150707214
+skharlamov@myseneca.ca
+OOP244-NFF
+
+Final Project Reflection
+------------------------
+My final solution is functional, which provides me with some relief. I honestly found
+this last project to be the most do-able and least abstract workshop of them all.
+I didn't really struggle with anything specifically, just some memory issues and
+bug-hunting. I'd like to think this is thanks to the rest of the semester being
+an intangible mess in my brain that refused to make sense, and I'm still not quite
+sure how it all came together at the end here.
+
+In this final solution, I found that my understanding of pointers and dereferencing
+definitely increased. Alongside, this was a really good foundation to work with 
+the I/O stream, be it in console or file. I did struggle initially with pointers
+and dereferencing, but some quick school notes and advice was very helpful to 
+clarify. Overall, this was very similar to the big menu we built in IPC with some
+added object-oriented concepts, and a really good way for me to utilize many of the
+object-oriented concepts taught this semester.

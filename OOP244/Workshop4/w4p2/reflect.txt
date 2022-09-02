@@ -1,0 +1,18 @@
+Sasha Kharlamov
+150707214
+skharlamov@myseneca.ca
+OOP244-NFF
+
+Workshop 4 Reflection
+---------------------
+In workshop 4, there was an emphasis on constructors and destructors. The concept was
+not too hard to pick up as opposed to some of the previous workshops, however I did 
+run into some run-order issues. The implementation was easy enough, the issue came
+about when everything was pretty much ready. I would run the code and it would throw
+me an error right at the main() return. This threw me for a loop, and after a lot of
+irritated bug testing I found out that my building a little function to display the
+robot control room summary was messing up the whole destruction. Since the robot
+being passed was in the middle of the robot array, when it figured that it was time
+to destruct the robot at the end of the summary function, that meant that when the 
+main array destruction happened, the computer found that the robot at index 4 was 
+already destructed and thus threw an error that there was nothing to destruct.

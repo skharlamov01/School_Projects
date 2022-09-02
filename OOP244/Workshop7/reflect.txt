@@ -1,0 +1,15 @@
+Sasha Kharlamov
+150707214
+skharlamov@myseneca.ca
+OOP244-NFF
+
+Workshop 7 Reflection
+---------------------
+In workshop 7 and the milestones, I have not struggled too much. I understand the main
+concepts, and certainly enough to implement the projects, but I have not had enough
+time this semester to really get into the meat and potatoes of how things work under
+the hood. There was a bit of a struggle in the beginning on trying to understand
+class inheritance and the difference between creating a public method and
+designating a child class as having public access to the parent class. All in all,
+this workshop and the milestones have been a great way to reinforce the new
+object-oriented concepts that I have learned this semester so far.

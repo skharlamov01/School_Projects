@@ -1,0 +1,15 @@
+Sasha Kharlamov
+150707214
+skharlamov@myseneca.ca
+OOP244-NFF
+
+Workshop 1 Reflection
+---------------------
+In this workshop I have learned how to functionally use the namespace feature
+alongside the new I/O method in c++, "cout" and "cin". I have also learned that
+c++ has the new integral type of "bool" which makes it significantly more clear
+in my case when making flags for loops, rather than using integers ones and zeros.
+The main struggle that I have at the moment is that I don't have enough context 
+at the moment to understand when to use any of these concepts (namespace, iostream,
+cout vs. printf). I'm hoping as the course progresses, I learn a bit more context
+of when and how I should be using these new object-oriented concepts.

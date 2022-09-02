@@ -1,0 +1,16 @@
+Sasha Kharlamov
+150707214
+skharlamov@myseneca.ca
+OOP345-NCC
+
+Workshop 2 Reflection
+---------------------
+This workshop made me have to really use my brain to start understanding the two new
+additions to the rule of 3 (now rule of 5). The move functionality is overall a far
+easier way to copy objects to new variable names, especially computationally as this
+workshop demonstrated through the use of a manual timer on the computations. I still 
+don't feel like I'm on solid footing quite yet, but this was also a very good reminder
+on dynamic memory, and especially dynamic arrays (which aren't exactly different than
+a dynamic string, but my mind still regards them differently). This workshop also
+really forced me to read the terrible, dry documentation to actually understand what
+was going on in libraries I'm not used to, which is a good skill to learn I assume.
