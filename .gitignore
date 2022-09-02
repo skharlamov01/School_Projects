@@ -50,3 +50,6 @@ Debug/
 *.exe
 *.out
 *.app
+
+# Text Files
+reflect.txt
