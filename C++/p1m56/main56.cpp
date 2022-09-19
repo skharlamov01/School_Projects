@@ -19,7 +19,7 @@ void displayFile(const char* file);
 
 int main() {
    copyfile("data.dat", "data56.dat");
-   ut.testMode();
+   ut.testMode(false);
    AidMan().run();
    displayFile("data.dat");
    cout << endl << "------------------------------------------------" << endl;
