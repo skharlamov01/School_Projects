@@ -1,7 +1,5 @@
 /* Workshop 4 Part 2
 Name: Sasha Kharlamov
-Email: skharlamov@myseneca.ca
-Seneca ID: 150707214
 Date: 13/02/2022
 I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.*/
 
